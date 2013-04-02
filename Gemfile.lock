@@ -1,0 +1,18 @@
+GEM
+  remote: http://ruby.taobao.org/
+  specs:
+    json (1.7.7)
+    mime-types (1.22)
+    nokogiri (1.5.9)
+    redis (3.0.3)
+    rest-client (1.6.7)
+      mime-types (>= 1.16)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  json
+  nokogiri
+  redis
+  rest-client
